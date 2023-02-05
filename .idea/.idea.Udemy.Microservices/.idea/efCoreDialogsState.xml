@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:ac53682f-83ef-4b8c-a8dc-4c4590c6e8c1:dbContext" value="Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext`2" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:dbContext" value="Udemy.IdentityServer.Data.ApplicationDbContext" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:targetFramework" value="netcoreapp3.1" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Udemy.IdentityServer
+build_property.ProjectDir = /Users/uguroban/RiderProjects/Udemy.Microservices/IdentityServer/Udemy.IdentityServer/
