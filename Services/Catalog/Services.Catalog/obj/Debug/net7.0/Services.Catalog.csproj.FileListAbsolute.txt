@@ -261,3 +261,12 @@
 /Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microservices.Shared.dll
 /Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microservices.Shared.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Catalog/Services.Catalog/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll

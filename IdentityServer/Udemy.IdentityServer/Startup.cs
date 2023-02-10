@@ -33,7 +33,9 @@ namespace Udemy.IdentityServer
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
+                
+            // var connectionString = System.Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
+            // services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString!));
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();

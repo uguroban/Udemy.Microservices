@@ -6,9 +6,6 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
     <ItemGroup>
-        <FrameworkReferance Include="Microsoft.AspNetCore.App" />
-    </ItemGroup>
-    <ItemGroup>
       <Reference Include="Microsoft.AspNetCore.Mvc.Abstractions">
       </Reference>
       <Reference Include="Microsoft.AspNetCore.Mvc.Core">

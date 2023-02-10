@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/uguroban/RiderProjects/Udemy.Microservices/Services/PhotoStock/Services.PhotoStock/wwwroot/photos/Ekran Resmi 2023-02-03 22.06.04.png",
+      "PackagePath": "staticwebassets/photos/Ekran Resmi 2023-02-03 22.06.04.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Services.PhotoStock.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Services.PhotoStock.props",
+      "PackagePath": "build\\Services.PhotoStock.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Services.PhotoStock.props",
+      "PackagePath": "buildMultiTargeting\\Services.PhotoStock.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Services.PhotoStock.props",
+      "PackagePath": "buildTransitive\\Services.PhotoStock.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

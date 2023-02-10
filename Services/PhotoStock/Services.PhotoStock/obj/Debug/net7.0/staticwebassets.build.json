@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "j9mWW04RHJm2gCTHiVxNs7woKqJlkNb2NF0mxwC9sOY=",
+  "Source": "Services.PhotoStock",
+  "BasePath": "_content/Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Services.PhotoStock/wwwroot",
+      "Source": "Services.PhotoStock",
+      "ContentRoot": "/Users/uguroban/RiderProjects/Udemy.Microservices/Services/PhotoStock/Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/uguroban/RiderProjects/Udemy.Microservices/Services/PhotoStock/Services.PhotoStock/wwwroot/photos/Ekran Resmi 2023-02-03 22.06.04.png",
+      "SourceId": "Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/uguroban/RiderProjects/Udemy.Microservices/Services/PhotoStock/Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Services.PhotoStock",
+      "RelativePath": "photos/Ekran Resmi 2023-02-03 22.06.04.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/Ekran Resmi 2023-02-03 22.06.04.png"
+    }
+  ]
+}

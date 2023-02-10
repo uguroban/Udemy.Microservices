@@ -15,6 +15,8 @@
 	
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentDotNetCliExePaths/=_002Fusr_002Flocal_002Fshare_002Fdotnet_002Fsdk_002F7_002E0_002E102_002FMSBuild_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentDotNetCliExePaths/=_002Fusr_002Flocal_002Fshare_002Fdotnet_002Fx64_002Fsdk_002F3_002E1_002E426_002FMicrosoft_002EBuild_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=exis/@EntryIndexedValue">True</s:Boolean>
 	
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=fullpermission/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Saveor/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=uguroban/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
