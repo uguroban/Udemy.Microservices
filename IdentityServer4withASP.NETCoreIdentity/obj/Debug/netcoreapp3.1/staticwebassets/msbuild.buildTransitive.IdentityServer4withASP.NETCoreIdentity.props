@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/IdentityServer4withASP.NETCoreIdentity.props" />
-</Project>
