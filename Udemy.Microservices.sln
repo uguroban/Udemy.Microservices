@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{53
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Discount", "Services\Discount\Services.Discount\Services.Discount.csproj", "{B1979651-D4F4-4DBC-966E-098E31117010}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{F1F1C2E1-8C45-44B2-900C-5C0495F6A343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,7 @@ Global
 		{DAD1F1F1-AC75-406D-82E6-3B40E79C52A0} = {BF809D1C-ED72-4761-AAD6-7A4685DA0C6E}
 		{5315D5C1-A98E-41DE-8E30-C0C8D64D9946} = {B885F25F-C2DF-4E98-8DEA-4C065BE9D6DC}
 		{B1979651-D4F4-4DBC-966E-098E31117010} = {5315D5C1-A98E-41DE-8E30-C0C8D64D9946}
+		{F1F1C2E1-8C45-44B2-900C-5C0495F6A343} = {B885F25F-C2DF-4E98-8DEA-4C065BE9D6DC}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FBC823E4-71EC-4C7D-A40C-2D54FB29441C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
