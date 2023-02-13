@@ -1,0 +1,12 @@
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/bin/Debug/net7.0/Order.Domain.Core.deps.json
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/bin/Debug/net7.0/Order.Domain.Core.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/bin/Debug/net7.0/Order.Domain.Core.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.csproj.AssemblyReference.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.AssemblyInfoInputs.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.AssemblyInfo.cs
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/refint/Order.Domain.Core.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/Order.Domain.Core.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain.Core/obj/Debug/net7.0/ref/Order.Domain.Core.dll

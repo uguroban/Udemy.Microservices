@@ -1,0 +1,15 @@
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/bin/Debug/net7.0/Order.Domain.deps.json
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/bin/Debug/net7.0/Order.Domain.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/bin/Debug/net7.0/Order.Domain.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/bin/Debug/net7.0/Order.Domain.Core.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/bin/Debug/net7.0/Order.Domain.Core.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.csproj.AssemblyReference.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.AssemblyInfoInputs.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.AssemblyInfo.cs
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.csproj.CoreCompileInputs.cache
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.csproj.CopyComplete
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/refint/Order.Domain.dll
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/Order.Domain.pdb
+/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/obj/Debug/net7.0/ref/Order.Domain.dll

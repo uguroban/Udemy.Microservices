@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n7szYtKrsDws0DulYFirlGIxeGVpdOh04J743AmOEhVfWX/BsEu///Z1AldvmViLLOnyfcL2HpBAYWp8JND9nw==",
+  "dgSpecHash": "/M54CDUE+zx3v8FhBjTu7XU7e5ZSnMPQFdWnon5FyVMG5XwYitCqpm+lbr9tfGW4S6H++zKLfByJtwHdF/zwxA==",
   "success": true,
   "projectFilePath": "/Users/uguroban/RiderProjects/Udemy.Microservices/Services/Order/Order.Domain/Order.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/uguroban/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/uguroban/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/uguroban/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/uguroban/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

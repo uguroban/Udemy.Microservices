@@ -6,4 +6,14 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Shared\Microservices.Shared\Microservices.Shared.csproj" />
+      <ProjectReference Include="..\Order.Domain\Order.Domain.csproj" />
+      <ProjectReference Include="..\Order.Infrastructure\Order.Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="12.0.1" />
+    </ItemGroup>
+
 </Project>
