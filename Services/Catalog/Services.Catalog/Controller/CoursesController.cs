@@ -21,7 +21,7 @@ namespace Services.Catalog.Controller
             _courseService = courseService;
         }
         
-        [HttpGet($"/api/[controller]/GetAll")]
+        [HttpGet($"/api/[controller]/GetAllCourses")]
         public async Task<IActionResult> GetAll()
         {
             var response = await _courseService.GetAllAsync();

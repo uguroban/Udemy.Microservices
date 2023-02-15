@@ -21,7 +21,7 @@ namespace Services.Catalog.Controller
             _categoryService = categoryService;
         }
 
-        [HttpGet($"/api/[controller]/GetAll")]
+        [HttpGet($"/api/[controller]/GetAllCategories")]
         public async Task<IActionResult> GetAll()
         {
             var response =await _categoryService.GetALlAsync();

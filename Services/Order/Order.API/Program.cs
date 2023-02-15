@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Order.Infrastructure;
 
@@ -17,6 +18,8 @@ builder.Services.AddDbContext<OrderDbContext>(opt =>
         conf.MigrationsAssembly("Order.Infrastructure");
     });
 });
+
+builder.Services.AddMediatR(typeof(Order.Application.Command.CreateOrderCommand).Assembly);
 
 var app = builder.Build();
 

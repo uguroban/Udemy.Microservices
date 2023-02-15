@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oRrNvYLiNXAB9bY6jm0FhHLhT3oywzkXsmDyU9wB1/Y=",
+  "Source": "Services.FakePayment",
+  "BasePath": "_content/Services.FakePayment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

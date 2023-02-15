@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.CodeAnalysis.Options;
 using Microsoft.Extensions.Options;
+using Services.Catalog.Dtos;
 using Services.Catalog.Services;
 using Services.Catalog.Settings;
 
@@ -11,10 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers(options =>
-{
-    options.Filters.Add(new AuthorizeFilter());
-});
+builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -26,14 +24,21 @@ builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("D
 builder.Services.AddSingleton<IDatabaseSettings>(sp => sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
-{
-    options.Authority = builder.Configuration["IdentityServerURL"];
-    options.Audience = "resource_catalog";
-    options.RequireHttpsMetadata = false;
-});
+// builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+// {
+//     options.Authority = builder.Configuration["IdentityServerURL"];
+//     options.Audience = "resource_catalog";
+//     options.RequireHttpsMetadata = false;
+// });
 
-    var app = builder.Build();
+var app = builder.Build();
+
+    //  var service = app.Services.GetRequiredService<CategoryService>();
+    // if (!service.GetALlAsync().Result.Data.Any())
+    // {
+    //     service.CreateCategory(new CategoryDto() { Name = "NetCore" }).Wait();
+    //     service.CreateCategory(new CategoryDto() { Name = "Redis" }).Wait();
+    // }
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -44,6 +49,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

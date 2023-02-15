@@ -2,7 +2,6 @@ using MediatR;
 using Microservices.Shared.Dtos;
 using Order.Application.Command;
 using Order.Application.Dtos;
-using Order.Application.Mapping;
 using Order.Domain.OrderAggregate;
 using Order.Infrastructure;
 
