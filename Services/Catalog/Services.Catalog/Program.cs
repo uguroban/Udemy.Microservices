@@ -33,12 +33,6 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
-    //  var service = app.Services.GetRequiredService<CategoryService>();
-    // if (!service.GetALlAsync().Result.Data.Any())
-    // {
-    //     service.CreateCategory(new CategoryDto() { Name = "NetCore" }).Wait();
-    //     service.CreateCategory(new CategoryDto() { Name = "Redis" }).Wait();
-    // }
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
